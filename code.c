@@ -42,4 +42,6 @@ int main()
     printf("Value of c after |= is %d\n", c);
 
     return 0;
+    // Output:
+    // Value of c = 30
 }
